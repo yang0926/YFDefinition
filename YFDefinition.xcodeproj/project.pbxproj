@@ -26,6 +26,7 @@
 		6E6922551D69B3C000EDAD2E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E6922581D69B3C000EDAD2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6E69225A1D69B3C000EDAD2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E6922601D69B3DC00EDAD2E /* YFDefinitionHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YFDefinitionHeader.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 				6E69224D1D69B3C000EDAD2E /* AppDelegate.m */,
 				6E69224F1D69B3C000EDAD2E /* ViewController.h */,
 				6E6922501D69B3C000EDAD2E /* ViewController.m */,
+				6E6922601D69B3DC00EDAD2E /* YFDefinitionHeader.h */,
 				6E6922521D69B3C000EDAD2E /* Main.storyboard */,
 				6E6922551D69B3C000EDAD2E /* Assets.xcassets */,
 				6E6922571D69B3C000EDAD2E /* LaunchScreen.storyboard */,
